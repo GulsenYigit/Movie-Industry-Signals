@@ -19,16 +19,3 @@ The-Movie-Industry/
 └── README.md
 
 ```
-
-
----
-
-## Reproducibility
-
-Navigate to the src folder and run:
-
-```bash
-cd src
-make
-```
----
